@@ -10,7 +10,7 @@ export default function Banner() {
                 </div>
 
                 <img className="img-perfil img-fluid" src="./assets/img/rodrigo-profile.png" alt="Minha foto" />
-                <img className="img-logo-rod img-fluid" src="./assets/img/logo.svg" alt="Minha foto" />
+                <img className="img-logo-rod" src="./assets/img/logo.svg" alt="Minha foto" />
 
             </div>
 
