@@ -6,28 +6,22 @@ export default function About() {
 
             <div className='div-apresentacao d-flex flex-column justify-content-center align-items-center' id='about'>
                 <p className='p-apresentacao text-center'>
-                    Olá! Sou Rodrigo Marinho, um nutricionista clínico e esportivo comprometido em ajudar as pessoas a alcançarem uma saúde e bem-estar ótimos. Com base na minha experiência e conhecimento, acredito firmemente que "o básico funciona".
+                    Olá mundo! Eu sou Vinicius Franco Duarte, Desenvolvedor Web, posso desenvolver sites responsivos a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
                 </p>
                 <p className='p-apresentacao text-center'>
-                    Meu objetivo é proporcionar orientação nutricional prática e eficaz para ajudar meus clientes a atingirem seus objetivos de saúde e performance. Acredito que uma alimentação saudável e equilibrada é a base para um estilo de vida saudável, seja você um atleta ou alguém que busca melhorar sua qualidade de vida.
+                    Antes de mergulhar de cabeça no desenvolvimento web, trabalhei em uma empresa onde era responsável pela manutenção dos laboratórios de informática, fui supervisor de operações, ocupei a cadeira de professor de matemática e física em pré vestibulares, e realizei trabalhos voluntários que consistiam no ensino da Matemática de uma forma mais lúdica para comunidades carentes e zona rural. Foi um período de grande crescimento pessoal e profissional, onde adquiri aptidão para encarar situações de extrema pressão. Tenho experiência com resolução de problemas e tomadas de decisão, em supervisionar, traçar metas e estratégias em equipe, entre outras atividades.
                 </p>
                 <p className='p-apresentacao text-center'>
-                    Ofereço atendimentos online, o que significa que posso ajudar pessoas de todas as regiões a alcançarem seus objetivos nutricionais, independentemente da distância física. Através de consultas virtuais, podemos trabalhar juntos para criar um plano alimentar personalizado e adaptado às necessidades e preferências individuais de cada cliente.
+                    Já no âmbito da tecnologia, venho aprimorando meus conhecimentos em front-end, prezando sempre em entregar meus projetos com design responsivo começando pelo mobile (Mobile First). Tenho conhecimentos em HTML5, CSS3, JavaScript, e atualmente, tenho me aprofundando nos frameworks React e Bootstrap.
                 </p>
                 <p className='p-apresentacao text-center'>
-                    Além disso, também disponibilizo consultórios físicos em Volta Redonda - RJ, Resende - RJ e Barra da Tijuca - RJ, onde posso oferecer um atendimento mais próximo e presencial para aqueles que preferem essa opção.
+                    Hoje, além de trabalhar com desenvolvimento web, sou responsável por uma equipe que coordena toda a parte de banco de dados da empresa que presto serviços, juntamente com a tratativa e cruzamento de dados do sistema de ponto integrado.
                 </p>
                 <p className='p-apresentacao text-center'>
-                    Minha abordagem nutricional é fundamentada em princípios sólidos e comprovados cientificamente, mas também valorizo a simplicidade e a praticidade. Acredito que implementar pequenas mudanças graduais no estilo de vida pode levar a resultados duradouros e significativos.
+                    Sou formado em Matemática e estou cursando Análise e Desenvolvimento de Sistemas. Divido meu tempo livre em momentos de lazer com a família, igreja, amo tocar violão (montar aquela roda de amigos e fazer um som), gosto de frequentar a academia pela manhã e por último mas não menos importante gosto bastante de fazer trilhas e realizar esportes radicais.
                 </p>
                 <p className='p-apresentacao text-center'>
-                    Como nutricionista clínico e esportivo, estou familiarizado com as demandas nutricionais específicas de atletas e entusiastas do fitness. Posso ajudar a otimizar a alimentação pré e pós-treino, melhorar a composição corporal, aumentar a energia e o desempenho esportivo.
-                </p>
-                <p className='p-apresentacao text-center'>
-                    Estou comprometido em oferecer um atendimento atencioso, personalizado e baseado em evidências científicas, visando o bem-estar e a satisfação de cada cliente.
-                </p>
-                <p className='p-apresentacao text-center'>
-                    Se você está em busca de um nutricionista que acredita que "o básico funciona" e deseja alcançar seus objetivos de saúde, performance e qualidade de vida, estou aqui para ajudar. Vamos trabalhar juntos para desenvolver um plano alimentar personalizado que se adapte às suas necessidades e estilo de vida.
+                    Estou sempre bem animado em conhecer pessoas novas, novos ensinamentos e novas culturas! Caso queira saber mais, entre em contato comigo. Um grande abraço!
                 </p>
             </div>
         </section>

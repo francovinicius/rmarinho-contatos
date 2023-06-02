@@ -9,8 +9,10 @@ export default function Banner() {
                     <a className="nav-link" href="/">Links</a>
                 </div>
 
-                <img className="img-perfil img-fluid" src="./assets/img/rodrigo-profile.png" alt="Minha foto" />
-                <img className="img-logo-rod" src="./assets/img/logo.svg" alt="Minha foto" />
+                <img className="img-perfil img-fluid" src="./assets/img/vn.jpeg" alt="Minha foto" />
+                <h3>Vinicius Duarte</h3>
+                <span className='slogan'>Desenvolvedor web</span>
+
 
             </div>
 
