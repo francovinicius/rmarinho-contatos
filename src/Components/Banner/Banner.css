@@ -10,6 +10,7 @@ h3 {
     color: #d1d0d0;
     font-weight: bold;
     text-shadow: 0 0 .1rem #f8f8f8, 0 0 1rem currentColor;
+
 }
 
 .navegacao {
@@ -17,13 +18,15 @@ h3 {
     margin-top: .5rem;
     margin-bottom: -2rem;
     font-size: 18px;
+
 }
 
 .nav-link {
-    color:#fafafa;
+    color:#44b3af;
     font-weight: bold;
 }
 
-.slogan {
-    margin-top: -.4rem;
+.img-logo-rod {
+    width: 20rem;
+    margin-bottom: -2rem;
 }
