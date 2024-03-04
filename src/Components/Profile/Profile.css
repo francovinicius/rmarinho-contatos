@@ -1,0 +1,54 @@
+.profile-div {
+    margin-top: -1.6rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.img-profile {
+    z-index: 0;
+    width: 25rem;
+    opacity: .8;
+    border-radius: 13rem;
+
+    animation: fadeIntext 1s;
+}
+
+.img-name {
+    z-index: 1;
+    margin-top: -2rem;
+    opacity: 1;
+    width: 18rem;
+    animation: fadeIntext 3s;
+}
+
+
+@media screen and (min-width:1024px) {
+
+    .profile-div {
+        margin-top: 0;
+        flex-direction: row-reverse;
+        align-items: center;
+        gap: 8rem;
+        height: 50rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .img-profile {
+        width: 40rem;
+    }
+
+    .img-name {
+        width: 28rem;
+        margin-top: -3rem;
+    }
+
+
+    .div-presentation {
+        width: 25rem;
+    }
+
+}

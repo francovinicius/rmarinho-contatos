@@ -1,0 +1,53 @@
+.ButtonsProfile-div {
+margin-bottom: 10rem;
+animation: fadeIntext 3s;
+}
+
+.ButtonsProfile-div p {
+  font-family: "Oswald", sans-serif;
+  color: #ffffff;
+}
+
+.btn-template {
+  background-color: #053638;
+  font-family: "Oswald", sans-serif;
+  width: 320px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 4px 0;
+  cursor: pointer;
+}
+
+.link {
+  color: white;
+  border: none;
+  text-decoration: none;
+}
+
+.btn-template:focus {
+  background-color: #053638;
+  color: white;
+  border: none;
+  text-decoration: none;
+}
+
+@media screen and (min-width:1024px) {
+
+  .ButtonsProfile-div {
+    margin-top: 12rem;
+    margin-bottom: 0;
+  }
+  .ButtonsProfile-div p{
+    font-size: 1.6rem;
+  }
+  .btn-template{
+    width: 450px;
+  }
+
+}
